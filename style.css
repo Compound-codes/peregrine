@@ -5,7 +5,7 @@ body {
     padding: 5%;
 }
 
-p,ul {
+p,ul,ol {
     font-size: 1.45rem;
     margin: 2%;
     color: rgb(81, 81, 81);
